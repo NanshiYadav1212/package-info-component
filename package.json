@@ -1,5 +1,5 @@
 {
-  "name": "@hyperdart/package",
+  "name": "@nitkkr/package",
   "version": "1.0.3",
   "source": "src/frontend/index.jsx",
   "main": "dist/index.umd.js",
